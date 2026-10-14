@@ -1,0 +1,6 @@
+﻿metric,linear_regression,baseline
+MAE,1.241,1.699
+MSE,2.484,4.851
+RMSE,1.576,2.202
+RMSE (Normalised),0.158,0.22
+R^2,0.467,-0.041

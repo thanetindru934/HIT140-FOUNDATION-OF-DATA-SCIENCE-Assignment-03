@@ -1,0 +1,85 @@
+﻿Match ID,Team,Actual,Predicted
+3,Canada,1,1.71
+3,Bosnia and Herzegovina,1,1.4
+4,United States,4,1.21
+4,Paraguay,1,0.79
+7,Haiti,0,1.46
+7,Scotland,1,1.53
+8,Australia,2,0.63
+8,Turkey,0,0.84
+9,Germany,7,3.06
+9,Curaçao,1,0.17
+14,Spain,0,3.03
+14,Cape Verde,0,-0.13
+17,France,3,2.24
+17,Senegal,1,1.34
+19,Argentina,3,2.28
+19,Algeria,0,0.64
+23,England,4,2.55
+23,Croatia,2,0.96
+25,Canada,6,1.89
+25,Qatar,0,0.67
+27,Czech Republic,1,1.48
+27,South Africa,1,1.09
+28,Mexico,1,0.66
+28,South Korea,0,0.91
+31,United States,2,1.15
+31,Australia,0,1.01
+34,Ecuador,0,1.9
+34,Curaçao,0,0.2
+44,Jordan,1,0.56
+44,Algeria,2,1.94
+46,Colombia,1,1.47
+46,DR Congo,0,0.75
+49,Morocco,4,2.5
+49,Haiti,2,0.99
+52,Canada,1,1.03
+52,Switzerland,2,1.87
+54,Mexico,3,1.02
+54,Czech Republic,0,0.59
+57,Curaçao,0,0.55
+57,Ivory Coast,2,2.08
+60,Tunisia,1,0.71
+60,Netherlands,3,2.91
+61,Senegal,5,2.33
+61,Iraq,0,0.88
+62,Uruguay,0,0.33
+62,Spain,1,2.32
+63,Norway,1,1.97
+63,France,4,1.99
+64,New Zealand,1,0.71
+64,Belgium,5,2.5
+67,Algeria,3,1.34
+67,Austria,3,1.63
+69,Colombia,0,0.84
+69,Portugal,0,1.47
+72,Croatia,2,2.08
+72,Ghana,1,1.28
+75,Germany,1,2.22
+75,Paraguay,1,0.24
+76,Netherlands,1,1.98
+76,Morocco,1,1.58
+80,England,2,2.8
+80,DR Congo,1,0.62
+83,Spain,3,2.29
+83,Austria,0,0.91
+85,Switzerland,2,1.84
+85,Algeria,0,1.24
+86,Australia,1,0.86
+86,Egypt,1,0.98
+87,Argentina,3,2.86
+87,Cape Verde,2,-0.22
+90,Paraguay,0,-0.21
+90,France,1,2.21
+91,Mexico,2,0.09
+91,England,3,2.23
+94,United States,1,0.98
+94,Belgium,4,2.07
+97,France,2,1.83
+97,Morocco,0,1.24
+98,Spain,2,1.96
+98,Belgium,1,1.09
+100,Argentina,3,2.03
+100,Switzerland,1,0.98
+104,Spain,1,1.37
+104,Argentina,0,1.33
