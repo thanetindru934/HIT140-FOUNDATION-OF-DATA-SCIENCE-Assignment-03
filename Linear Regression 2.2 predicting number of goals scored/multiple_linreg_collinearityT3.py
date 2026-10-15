@@ -1,4 +1,3 @@
-
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -66,7 +65,28 @@ y = df.iloc[:, -1]
 x = sm.add_constant(x)
 model = sm.OLS(y, x).fit()
 pred = model.predict(x)
+model_details = model.summary()
+model_details.extra_txt = None
+print(model_details)
 
+
+"""
+REBUILD AND REEVALUATE LINEAR REGRESSION USING STATSMODELS
+WITH COLLINEARITY BEING FIXED
+"""
+
+# Drop one of the most correlated variables (x3 and x5 have r = 0.67). Keep x3.
+df = df.drop(["x5_team_forwards_npg_per90"], axis=1)
+print(df.info())
+
+# Separate explanatory variables (x) from the response variable (y)
+x = df.iloc[:, :-1]
+y = df.iloc[:, -1]
+
+# Build and evaluate the linear regression model
+x = sm.add_constant(x)
+model = sm.OLS(y, x).fit()
+pred = model.predict(x)
 model_details = model.summary()
 model_details.extra_txt = None
 print(model_details)
